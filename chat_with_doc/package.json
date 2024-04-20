@@ -1,0 +1,27 @@
+{
+  "name": "doc_chat",
+  "version": "1.0.0",
+  "description": "Chat over the document",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/google-genai": "^0.0.11",
+    "ai": "^3.0.21",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "langchain": "^0.1.32",
+    "mongodb": "^6.5.0",
+    "web-streams-polyfill": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+  
+}

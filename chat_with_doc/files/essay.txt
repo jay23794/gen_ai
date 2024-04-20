@@ -1,0 +1,38 @@
+Mahatma Gandhi, byname of Mohandas Karamchand Gandhi, (born Oct. 2, 1869, Porbandar, India—died Jan. 30, 1948, Delhi), Preeminent leader of Indian nationalism and prophet of nonviolence in the 20th century.
+Gandhi grew up in a home steeped in religion, and he took for granted religious tolerance and the doctrine of ahimsa (noninjury to all living beings). He studied law in England from 1888 to 1891, and in 1893 he took a job with an Indian firm in South Africa. There he became an effective advocate for Indian rights.
+In 1906 he first put into action satyagraha, his technique of nonviolent resistance. His success in South Africa gave him an international reputation, and in 1915 he returned to India and within a few years became the leader of a nationwide struggle for Indian home rule. By 1920 Gandhi commanded influence hitherto unattained by any political leader in India.
+He refashioned the Indian National Congress into an effective political instrument of Indian nationalism and undertook major campaigns of nonviolent resistance in 1920–22, 1930–34 (including his momentous march to the sea to collect salt to protest a government monopoly), and 1940–42. In the 1930s he also campaigned to end discrimination against India’s lower-caste “untouchables” (Dalits; officially designated as Scheduled Castes) and concentrated on educating rural India and promoting cottage industry.
+India achieved dominion status in 1947, but the partition of the subcontinent into India and Pakistan was a great disappointment to Gandhi, who had long worked for Hindu-Muslim unity. In September 1947 he ended rioting in Calcutta (Kolkata) by fasting. Known as the Mahatma (“Great-Souled”), Gandhi had won the affection and loyalty of millions. In January 1948 he was shot and killed by a young Hindu fanatic.
+
+
+Resistors are the commonly used components in the electronic circuits. A resistor is an electronic component that limits the electric current or flow of electrons to certain level. It consists of two terminals.
+
+
+The electric current reduced or restricted by the resistor is measured in ohms and it is represented by a symbol Ω.
+
+
+Capacitors are the most widely used electronic components after the resistors. Capacitors temporarily store the electrical energy in the form of static electric field.
+
+OOPs (Object-Oriented Programming System).
+Object means a real-world entity such as a pen, chair, table, computer, watch, etc. Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies software development and maintenance by providing some concepts: Object.Encapsulation, Data Abstraction, Polymorphism and Inheritance are the 4 basics of OOPs.
+Encapsulation
+Encapsulation is the mechanism of hiding of data implementation by restricting access to public methods. Instance variables are kept private and accessor methods are made public to achieve this.
+Abstraction
+Abstract means a concept or an Idea which is not associated with any particular instance. Using abstract class/Interface we express the intent of the class rather than the actual implementation. In a way, one class should not know the inner details of another in order to use it, just knowing the interfaces should be good enough.
+Inheritance
+Inheritances expresses “is-a” and/or “has-a” relationship between two objects. Using Inheritance, In derived classes we can reuse the code of existing super classes. In Java, concept of “is-a” is based on class inheritance (using extends) or interface implementation (using implements).
+For example, FileInputStream "is-a" InputStream that reads from a file.
+Polymorphism
+It means one name many forms. It is further of two types — static and dynamic. Static polymorphism is achieved using method overloading and dynamic polymorphism using method overriding. It is closely related to inheritance. We can write a code that works on the superclass, and it will work with any subclass type as well.
+
+
+Vector Store is the One of the most common ways to store and search over unstructured data is to embed it and store the resulting embedding vectors, and then at query time to embed the unstructured query and retrieve the embedding vectors that are 'most similar' to the embedded query. A vector store takes care of storing embedded data and performing vector search for you.
+
+
+LangChain is a framework for developing applications powered by language models. It enables applications that:
+Are context-aware: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.)
+Reason: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.)
+The main value props of LangChain are:
+Components: abstractions for working with language models, along with a collection of implementations for each abstraction. Components are modular and easy-to-use, whether you are using the rest of the LangChain framework or not
+Off-the-shelf chains: a structured assembly of components for accomplishing specific higher-level tasks
+Off-the-shelf chains make it easy to get started. For complex applications, components make it easy to customize existing chains and build new ones.
